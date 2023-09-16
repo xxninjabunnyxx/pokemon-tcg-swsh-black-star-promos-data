@@ -1,0 +1,87 @@
+---
+id: swshp-SWSH124
+name: Galarian Zapdos
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '110'
+types:
+- Fighting
+abilities:
+- name: Strong Legs Charge
+  text: When you play this Pokémon from your hand onto your Bench during your turn,
+    you may attach up to 2 Fighting Energy cards from your hand to this Pokémon.
+  type: Ability
+attacks:
+- name: Zapper Kick
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '70'
+  text: You may discard all Energy from this Pokémon. If you do, your opponent's Active
+    Pokémon is now Paralyzed.
+weaknesses:
+- type: Psychic
+  value: "×2"
+set:
+  id: swshp
+  name: SWSH Black Star Promos
+  series: Sword & Shield
+  printedTotal: 307
+  total: 304
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: PR-SW
+  releaseDate: 2019/11/15
+  updatedAt: 2022/07/23 20:15:00
+  images:
+    symbol: https://images.pokemontcg.io/swshp/symbol.png
+    logo: https://images.pokemontcg.io/swshp/logo.png
+number: SWSH124
+artist: Oswaldo KATO
+rarity: Promo
+flavorText: One kick from its powerful legs will pulverize a dump truck. Supposedly,
+  this Pokémon runs through the mountains at over 180 mph.
+nationalPokedexNumbers:
+- 145
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: E
+images:
+  small: https://images.pokemontcg.io/swshp/SWSH124.png
+  large: https://images.pokemontcg.io/swshp/SWSH124_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swshp-SWSH124
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 1.03
+      mid: 3.23
+      high: 10.0
+      market: 2.73
+      directLow: 2.49
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swshp-SWSH124
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 20.18
+    lowPrice: 4.49
+    trendPrice: 18.58
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 4.5
+    avg1: 7.98
+    avg7: 10.51
+    avg30: 19.51
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0

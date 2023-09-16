@@ -1,0 +1,88 @@
+---
+id: swshp-SWSH189
+name: Flapple
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '80'
+types:
+- Dragon
+evolvesFrom: Applin
+attacks:
+- name: Flight Up
+  cost:
+  - Fire
+  convertedEnergyCost: 1
+  damage: ''
+  text: Attach up to 3 basic Energy cards from your discard pile to 1 of your Benched
+    Pokémon.
+- name: Corrosive Acid
+  cost:
+  - Grass
+  - Fire
+  convertedEnergyCost: 2
+  damage: '70'
+  text: Your opponent's Active Pokémon is now Burned.
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: swshp
+  name: SWSH Black Star Promos
+  series: Sword & Shield
+  printedTotal: 307
+  total: 304
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: PR-SW
+  releaseDate: 2019/11/15
+  updatedAt: 2022/07/23 20:15:00
+  images:
+    symbol: https://images.pokemontcg.io/swshp/symbol.png
+    logo: https://images.pokemontcg.io/swshp/logo.png
+number: SWSH189
+artist: nagimiso
+rarity: Promo
+flavorText: It flies on wings of apple skin and spits a powerful acid. It can also
+  change its shape into that of an apple.
+nationalPokedexNumbers:
+- 841
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: E
+images:
+  small: https://images.pokemontcg.io/swshp/SWSH189.png
+  large: https://images.pokemontcg.io/swshp/SWSH189_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swshp-SWSH189
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 0.01
+      mid: 0.25
+      high: 6.99
+      market: 0.23
+      directLow: 0.16
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swshp-SWSH189
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.21
+    lowPrice: 0.02
+    trendPrice: 0.31
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 0.02
+    avg1: 0.1
+    avg7: 0.24
+    avg30: 0.23
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0

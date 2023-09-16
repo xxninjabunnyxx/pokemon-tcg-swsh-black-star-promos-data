@@ -1,0 +1,66 @@
+---
+id: swshp-SWSH121
+name: Marnie
+supertype: Trainer
+subtypes:
+- Supporter
+rules:
+- Each player shuffles their hand and puts it on the bottom of their deck. If either
+  player put any cards on the bottom of their deck in this way, you draw 5 cards,
+  and your opponent draws 4 cards.
+- You may play only 1 Supporter card during your turn.
+set:
+  id: swshp
+  name: SWSH Black Star Promos
+  series: Sword & Shield
+  printedTotal: 307
+  total: 304
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: PR-SW
+  releaseDate: 2019/11/15
+  updatedAt: 2022/07/23 20:15:00
+  images:
+    symbol: https://images.pokemontcg.io/swshp/symbol.png
+    logo: https://images.pokemontcg.io/swshp/logo.png
+number: SWSH121
+artist: Naoki Saito
+rarity: Promo
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swshp/SWSH121.png
+  large: https://images.pokemontcg.io/swshp/SWSH121_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swshp-SWSH121
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 28.01
+      mid: 34.83
+      high: 99.95
+      market: 32.35
+      directLow: 34.99
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swshp-SWSH121
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 18.82
+    lowPrice: 10.0
+    trendPrice: 18.58
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 10.0
+    avg1: 24.65
+    avg7: 20.7
+    avg30: 20.4
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0

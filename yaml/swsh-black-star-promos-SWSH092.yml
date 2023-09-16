@@ -1,0 +1,90 @@
+---
+id: swshp-SWSH092
+name: Charmander
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '70'
+types:
+- Fire
+evolvesTo:
+- Charmeleon
+attacks:
+- name: Collect
+  cost:
+  - Fire
+  convertedEnergyCost: 1
+  damage: ''
+  text: Draw a card.
+- name: Flare
+  cost:
+  - Fire
+  - Fire
+  convertedEnergyCost: 2
+  damage: '30'
+  text: ''
+weaknesses:
+- type: Water
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: swshp
+  name: SWSH Black Star Promos
+  series: Sword & Shield
+  printedTotal: 307
+  total: 304
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: PR-SW
+  releaseDate: 2019/11/15
+  updatedAt: 2022/07/23 20:15:00
+  images:
+    symbol: https://images.pokemontcg.io/swshp/symbol.png
+    logo: https://images.pokemontcg.io/swshp/logo.png
+number: SWSH092
+artist: Uta
+rarity: Promo
+flavorText: It has a preference for hot things. When it rains, steam is said to spout
+  from the tip of its tail.
+nationalPokedexNumbers:
+- 4
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swshp/SWSH092.png
+  large: https://images.pokemontcg.io/swshp/SWSH092_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swshp-SWSH092
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 0.24
+      mid: 0.67
+      high: 9.99
+      market: 0.58
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swshp-SWSH092
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 2.42
+    lowPrice: 0.5
+    trendPrice: 2.54
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 5.52
+    lowPriceExPlus: 0.6
+    avg1: 2.89
+    avg7: 2.49
+    avg30: 2.28
+    reverseHoloAvg1: 3.4
+    reverseHoloAvg7: 5.47
+    reverseHoloAvg30: 4.34

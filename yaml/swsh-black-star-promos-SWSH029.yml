@@ -1,0 +1,94 @@
+---
+id: swshp-SWSH029
+name: Rayquaza
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '130'
+types:
+- Colorless
+attacks:
+- name: Jaw Lock
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: During your opponent's next turn, the Defending Pokémon can't retreat.
+- name: Power Blast
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '120'
+  text: Discard an Energy from this Pokémon.
+weaknesses:
+- type: Lightning
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-30"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swshp
+  name: SWSH Black Star Promos
+  series: Sword & Shield
+  printedTotal: 307
+  total: 304
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: PR-SW
+  releaseDate: 2019/11/15
+  updatedAt: 2022/07/23 20:15:00
+  images:
+    symbol: https://images.pokemontcg.io/swshp/symbol.png
+    logo: https://images.pokemontcg.io/swshp/logo.png
+number: SWSH029
+artist: so-taro
+rarity: Promo
+flavorText: It flies in the ozone layer, way up high in the sky. Until recently, no
+  one had ever seen it.
+nationalPokedexNumbers:
+- 384
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swshp/SWSH029.png
+  large: https://images.pokemontcg.io/swshp/SWSH029_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swshp-SWSH029
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 2.35
+      mid: 4.81
+      high: 19.99
+      market: 4.74
+      directLow: 5.14
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swshp-SWSH029
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 3.96
+    lowPrice: 1.0
+    trendPrice: 5.42
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 2.25
+    lowPriceExPlus: 1.0
+    avg1: 2.87
+    avg7: 4.5
+    avg30: 3.73
+    reverseHoloAvg1: 1.71
+    reverseHoloAvg7: 1.54
+    reverseHoloAvg30: 3.28

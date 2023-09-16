@@ -1,0 +1,93 @@
+---
+id: swshp-SWSH194
+name: Leafeon V
+supertype: Pokémon
+subtypes:
+- Basic
+- V
+hp: '210'
+types:
+- Grass
+rules:
+- 'V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.'
+attacks:
+- name: Leaf Guard
+  cost:
+  - Grass
+  convertedEnergyCost: 1
+  damage: '30'
+  text: During your opponent's next turn, this Pokémon takes 30 less damage from attacks
+    (after applying Weakness and Resistance).
+- name: Slashing Strike
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '180'
+  text: During your next turn, this Pokémon can't use Slashing Strike.
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swshp
+  name: SWSH Black Star Promos
+  series: Sword & Shield
+  printedTotal: 307
+  total: 304
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: PR-SW
+  releaseDate: 2019/11/15
+  updatedAt: 2022/07/23 20:15:00
+  images:
+    symbol: https://images.pokemontcg.io/swshp/symbol.png
+    logo: https://images.pokemontcg.io/swshp/logo.png
+number: SWSH194
+artist: PLANETA Yamashita
+rarity: Promo
+nationalPokedexNumbers:
+- 470
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swshp/SWSH194.png
+  large: https://images.pokemontcg.io/swshp/SWSH194_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swshp-SWSH194
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 0.49
+      mid: 1.0
+      high: 10.0
+      market: 0.65
+      directLow: 0.63
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swshp-SWSH194
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 1.69
+    lowPrice: 1.19
+    trendPrice: 1.77
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 1.19
+    avg1: 1.6
+    avg7: 1.77
+    avg30: 1.69
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0
